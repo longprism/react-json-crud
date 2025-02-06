@@ -8,5 +8,6 @@ Tutorial instal :
 5. `npm install`
 6. `npm run dev`
 7. buka terminal baru: ketikkan `npx json-server --watch  src/assets/data.json --port 8000`
-8. buka buka website di browser
- 
+8. buka website di browser
+
+Terimakasih 🙏🙏
