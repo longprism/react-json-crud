@@ -1,0 +1,49 @@
+{
+  "data": [
+    {
+      "id": "1",
+      "name": "John Doe",
+      "email": "john.doe@example.com",
+      "password": "password123",
+      "gender": "male",
+      "is_married": false,
+      "address": "123 Main St, Anytown, USA"
+    },
+    {
+      "id": "2",
+      "name": "Jane Smith",
+      "email": "jane.smith@example.com",
+      "password": "password456",
+      "gender": "female",
+      "is_married": true,
+      "address": "456 Oak St, Anytown, USA"
+    },
+    {
+      "id": "3",
+      "name": "Alice Johnson",
+      "email": "alice.johnson@example.com",
+      "password": "password789",
+      "gender": "female",
+      "is_married": false,
+      "address": "789 Pine St, Anytown, USA"
+    },
+    {
+      "id": "4",
+      "name": "Bob Brown",
+      "email": "bob.brown@example.com",
+      "password": "password101",
+      "gender": "male",
+      "is_married": true,
+      "address": "101 Maple St, Anytown, USA"
+    },
+    {
+      "id": "5",
+      "name": "Charlie Davis",
+      "email": "charlie.davis@example.com",
+      "password": "password202",
+      "gender": "male",
+      "is_married": false,
+      "address": "202 Birch St, Anytown, USA"
+    }
+  ]
+}
